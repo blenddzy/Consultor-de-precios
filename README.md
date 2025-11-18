@@ -1,4 +1,4 @@
-# 📊 Gestión Prueba2 - Sistema Web de Gestión
+# 📊 Gestión de precios - Sistema Web de Gestión
 
 Una **aplicación web completa** para la gestión centralizada de proveedores, artículos, descuentos y cotizaciones de dólar integrada con **SQL Server**.
 
@@ -319,10 +319,7 @@ Este proyecto está bajo la licencia MIT. Ver archivo `LICENSE` para más detall
 ---
 
 ## 📧 Contacto
-
-Para preguntas o sugerencias:
-- Email: tu-email@example.com
-- GitHub Issues: [Abrir issue](https://github.com/tu-usuario/gestion-prueba2/issues)
+https://github.com/blenddzy
 
 ---
 
@@ -349,6 +346,6 @@ Para preguntas o sugerencias:
 
 ---
 
-**Hecho con ❤️ por [Tu Nombre]**
+**Hecho con ❤️ por Fede!**
 
 Last Updated: **17/11/2025**
